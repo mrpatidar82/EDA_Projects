@@ -1,3 +1,6 @@
+#Rahul_Patidar
+       
+
 use satellite_db;
 #Q1.  Display the names of all satellites and their countries
 SELECT official_name_of_satellite, country_of_operator_owner
